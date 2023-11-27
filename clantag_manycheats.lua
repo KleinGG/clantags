@@ -20,7 +20,7 @@ end
 
 
 local clantag_timing = {
-    [1] = function() return "gayyysense" end,
+    [1] = function() return "CSGOGeek" end,
     [2] = function() return "govnoware" end,
     [3] = function() return "iWebz" end,
 	[4] = function() return "globemacy" end,
